@@ -12,6 +12,8 @@
 
 4 VisitorPattern_18 ---访问者模式
 
+5 StatePattern_19 --- 状态模式
+
 
 
 
