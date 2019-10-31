@@ -10,7 +10,7 @@
     --- finall
 3 ChainofResponsibilityPattern_17 ---责任链模式
 
-
+4 VisitorPattern_18 ---访问者模式
 
 
 
