@@ -1,0 +1,2 @@
+init ---单线程
+second ---多线程，implements Cloneable
