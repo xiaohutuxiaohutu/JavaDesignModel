@@ -1,18 +1,23 @@
 #java 设计模式
 ##包说明
 ```
-1 untils --- 工具类
-    --- ClassUtils:根据接口查找所有的实现类
-2 ObserverPattern ---观察者模式
-    --- old
-    --- modify
-    --- latest
-    --- finall
-3 ChainofResponsibilityPattern_17 ---责任链模式
+0 untils --- 工具类
+    --- ClassUtils      根据接口查找所有的实现类
+C12  C12_CommandPattern                  ---命令模式
 
-4 VisitorPattern_18 ---访问者模式
+C13  C13_DecoratorPattern                ---装饰模式
 
-5 StatePattern_19 --- 状态模式
+C14  C14_IteratorPattern                 ---迭代器模式
+
+C16  C16_ObserverPattern                 ---观察者模式
+
+C17  C17_ChainofResponsibilityPattern    ---责任链模式
+
+C18  C18_VisitorPattern                  ---访问者模式
+
+C19  C19_StatePattern                    ---状态模式
+
+20 C20_PrototypePattern                  ---原型模式
 
 
 

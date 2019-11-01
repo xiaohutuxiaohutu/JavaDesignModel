@@ -1,4 +1,4 @@
-package C14_IteratorPatternǐ;
+package C14_IteratorPattern;
 
 import java.util.ArrayList;
 import java.util.List;

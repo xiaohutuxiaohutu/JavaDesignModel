@@ -1,4 +1,4 @@
-package C14_IteratorPatternǐ;
+package C14_IteratorPattern;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -23,7 +23,7 @@ public class ProjectIterator implements IProjectIterator{
         return b;
     }
     public IProject next(){
-        return (IProject)this.list.get(this.currentItem++);
+        return this.list.get(this.currentItem++);
     }
     public void remove(){
 
