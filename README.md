@@ -17,9 +17,9 @@ C18  C18_VisitorPattern                  ---访问者模式
 
 C19  C19_StatePattern                    ---状态模式
 
-20 C20_PrototypePattern                  ---原型模式
+C20  C20_PrototypePattern                ---原型模式
 
-
+C21  C21_MediatorPattern                 ---中介者模式
 
 
 
