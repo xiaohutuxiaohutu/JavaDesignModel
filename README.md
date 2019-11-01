@@ -21,6 +21,10 @@ C20  C20_PrototypePattern                ---原型模式
 
 C21  C21_MediatorPattern                 ---中介者模式
 
+C22 C22_InterpreterPattern               ---解释器模式
+
+
+
 
 
 
