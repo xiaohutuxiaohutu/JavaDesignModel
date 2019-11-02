@@ -28,7 +28,8 @@ public class App {
         List<vo> list = new ArrayList<>();
         String collect = list.stream().map(vo::getName).collect(Collectors.joining(","));
         System.out.println("collect:" + collect);
-
+        String[] strings = list.stream().map(vo::getName).toArray(String[]::new);
+        System.out.println("strings:" + strings.length);
     }
 
     @Data
