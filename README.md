@@ -9,6 +9,8 @@ C13  C13_DecoratorPattern                ---装饰模式
 
 C14  C14_IteratorPattern                 ---迭代器模式
 
+C15  C15_CompositePattern                ---组合模式
+
 C16  C16_ObserverPattern                 ---观察者模式
 
 C17  C17_ChainofResponsibilityPattern    ---责任链模式
