@@ -3,7 +3,12 @@
 ```
 0 untils --- 工具类
     --- ClassUtils      根据接口查找所有的实现类
-C1  C1_StrategyPattern                   ---策略模式
+C1   C1_StrategyPattern                  ---策略模式
+
+C2   C2_ProxyPattern                     ---策略模式
+
+C3   C3_SingletonPattern                 ---单例模式
+
 C12  C12_CommandPattern                  ---命令模式
 
 C13  C13_DecoratorPattern                ---装饰模式
