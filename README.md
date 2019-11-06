@@ -31,3 +31,14 @@ C22 C22_InterpreterPattern               ---解释器模式
 
 
 ```
+##六大设计原则
+```
+一   单一设计原则（single responsibility Principle) SRP
+二   里氏替换原则（Liskov Substitution Principle)
+三   依赖倒置原则（Dependence Inversion Principle)
+四   依赖倒置原则（Dependence Inversion Principle)
+五   接口隔离原则（Interface Segregation Principle)
+六   迪米特原则（Low of Demeter)LoD 
+
+
+```
