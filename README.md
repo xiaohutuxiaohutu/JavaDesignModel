@@ -3,6 +3,7 @@
 ```
 0 untils --- 工具类
     --- ClassUtils      根据接口查找所有的实现类
+C1  C1_StrategyPattern                   ---策略模式
 C12  C12_CommandPattern                  ---命令模式
 
 C13  C13_DecoratorPattern                ---装饰模式
@@ -36,9 +37,9 @@ C22 C22_InterpreterPattern               ---解释器模式
 一   单一设计原则（single responsibility Principle) SRP
 二   里氏替换原则（Liskov Substitution Principle)
 三   依赖倒置原则（Dependence Inversion Principle)
-四   依赖倒置原则（Dependence Inversion Principle)
-五   接口隔离原则（Interface Segregation Principle)
-六   迪米特原则（Low of Demeter)LoD 
+四   接口隔离原则（Interface Segregation Principle)
+五   迪米特原则（Low of Demeter)LoD 
+六   开闭原则（Open Close Principle)
 
 
 ```
