@@ -17,6 +17,9 @@ C5   C5_FactoryMethodPattern             ---工厂方法模式
     third       ---应用，延迟初始化
 C6   C6_AbstractFactoryPattern           ---抽象工厂模式
 
+C7   C7_FacadePattern                    ---门面模式
+
+C8   C8_AdapterPatter                    ---适配器模式
 C12  C12_CommandPattern                  ---命令模式
 
 C13  C13_DecoratorPattern                ---装饰模式
